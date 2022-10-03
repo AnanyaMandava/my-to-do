@@ -8,12 +8,12 @@ export function getAll() {
     return [
         {
             id: 1,
-            text: 'Learn Javascript',
+            text: '281 Assignment',
             completed: false
         },
         {
             id: 2,
-            text: 'Learn React',
+            text: 'Deploy app on Google App Engine',
             completed: false
         },
         {
